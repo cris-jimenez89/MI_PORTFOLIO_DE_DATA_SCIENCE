@@ -4,8 +4,8 @@ En un primer momento, mis ensayos se crearan en Python (Jupiter Notebook), aunqu
 
 Si mis proyectos te entusiasman tanto como a mí, puedes contactar conmigo en mi Linkedin <https://www.linkedin.com/in/cristina-jim%C3%A9nez-parrado/>
 
-###PROYECTOS:
-ANALISIS EXPLORATORIO DE DATOS
+###PROYECTOS 
+
 ¿Quién quiere ser millonario? ¿Ser millonario es algo imposible de conseguir? Yo digo que no.
 >>EDA "La edad y el género de un billonario influye en la probabilidad de tener una empresa tecnológica (las que me interesan actualmente). La preferencia por sectores tecnológicos se relaciona con la edad del billonario y con su género"
 >>¿Existen pautas que podríamos TEORICAMENTE seguir para acercarnos a esa fantasía de riqueza? 
