@@ -1,4 +1,4 @@
-# MI_PORTFOLIO_DE_DATA_SCIENCE:
+# ¿QUIÉN QUIERE SER MILLONARIO?:
 Este repositorio será el resultado de mi trabajo en este maravilloso mundo que es el Data. 
 En un primer momento, mis ensayos se crearan en Python (Jupiter Notebook), aunque espero y deseo poder evolucionar a otros lenguajes de programación cuando sea necesario.
 
