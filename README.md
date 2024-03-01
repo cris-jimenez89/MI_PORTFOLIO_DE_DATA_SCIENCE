@@ -1,4 +1,5 @@
 # ¿QUIÉN QUIERE SER MILLONARIO?:
+Si mis proyectos te entusiasman tanto como a mí, o te surge alguna duda tras su lectura, puedes contactar conmigo en mi Linkedin https://www.linkedin.com/in/cristina-jim%C3%A9nez-parrado/
 **PROYECTO**
 
 ¿Quién quiere ser millonario? ¿Ser millonario es algo imposible de conseguir? Yo digo que no.
